@@ -1,5 +1,5 @@
 
-/*
+
 Checkbox1A.onclick=function(){
   alert("You Clicked!")
 }
@@ -16,4 +16,3 @@ Media1A.onclick=function(){
   alert("Fun media!")
 }
 
-*/
