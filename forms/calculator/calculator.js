@@ -1,4 +1,5 @@
 
+/*
 addBtn.onclick=function(){
   let num1 = parseInt(fnInput.value)
   let num2 = parseInt(snInput.value)
@@ -10,3 +11,4 @@ addBtn.onclick=function(){
 resetBtn.onclick=function(){
   lblMessage2.value = ""
 }
+*/
